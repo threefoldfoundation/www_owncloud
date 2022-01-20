@@ -1,1 +1,7 @@
-# www_owncloud
+# Owncloud server 
+
+## Run owncloud
+
+```sh
+npx lite-server
+```
