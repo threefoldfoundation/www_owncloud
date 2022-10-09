@@ -8,4 +8,4 @@ npx lite-server
 
 ## github pages
 
-https://threefoldtech.github.io/www_owncloud/
+https://threefoldfoundation.github.io/www_owncloud/
